@@ -1,1 +1,1 @@
-# corsera-webdev-assignments
+# coursera-webdev-assignments
